@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/samuelcolvin/check-python-version/commit/db74af5ee0b4535d185361599f8a3452f19cb3d2",
       "git:hexsha": "db74af5ee0b4535d185361599f8a3452f19cb3d2",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/samuelcolvin/check-python-version/commit/1887907a159fc4f3f6e7aca274d96078b4b03aaf",
